@@ -1,4 +1,4 @@
-# index.html
+My Prototype
 <!DOCTYPE html>
 <html lang="en">
 <head>
